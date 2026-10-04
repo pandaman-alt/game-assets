@@ -4,7 +4,7 @@ var fullScreenPage = `
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>New Webpage</title>
+		<title>Breakout</title>
 
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
